@@ -86,7 +86,7 @@ All files                |    99.21 |    96.62 |      100 |      100 |          
 -------------------------|----------|----------|----------|----------|----------------|
 ```
 
-#### Deploy GravisMaster
+#### Deploy Gswap Farming Big Bang Round
 
 ```
 yarn deploy --network bsctest --tags Master
